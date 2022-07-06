@@ -58,28 +58,28 @@ h1, h2, h3, h4, p {
   height: 400px;
   border: 6px solid white;
   border-radius: 10px;
-  background-image: url("images/gift-cover.jpg");
+  background-image: url("gift-cover.jpg");
   background-size: cover;
 }
 
 #gift-img-happy:hover {
-  background-image: url("images/happy.webp");
+  background-image: url("happy.webp");
 }
 
 #gift-img-hot:hover {
-  background-image: url("images/hot.webp");
+  background-image: url("hot.webp");
 }
 
 #gift-img-genius:hover {
-  background-image: url("images/beautiful.webp");
+  background-image: url("beautiful.webp");
 }
 
 #gift-img-badass:hover {
-  background-image: url("images/badass.webp");
+  background-image: url("badass.webp");
 }
 
 #gift-img-cheers:hover {
-  background-image: url("images/greeting.webp");
+  background-image: url("greeting.webp");
 }
 
 #footer {
